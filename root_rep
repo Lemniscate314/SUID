@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "repertory content of" `whoami`
+ls -a /root
